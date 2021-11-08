@@ -42,12 +42,12 @@ CREATE TABLE `marks` (
 --
 
 INSERT INTO `marks` (`fname`, `lname`, `DOB`, `branch`, `score`, `regno`) VALUES
-('Harish', 'S', '2001-03-05', 'CIVIL-C', 92, 15108006),
-('Harshvardan', 'S M', '1999-02-16', 'CSE-B', 92, 1518102002),
-('Abishek', 'M', '2001-01-26', 'CSE-A', 98, 1518102006),
-('Karthikeyan', 'M', '1999-06-01', 'CSE-A', 100, 1518102052),
-('Gowcick', 'Ram', '2000-08-10', 'Mech-D', 63, 1518106305),
-('Karthick', 'S', '2001-05-30', 'FT-B', 87, 1518108201);
+('Bhuvi', 'G', '2001-03-05', 'CIVIL-C', 92, 1518102015),
+('Ben', 'G', '1999-02-16', 'CSE-B', 92, 1518102017),
+('Chandra', 'G', '2001-01-26', 'CSE-A', 98, 1518102021),
+('Sweetie', 'S', '1999-06-01', 'CSE-A', 100, 1518102025),
+('Abdul', 'Kalam', '2000-08-10', 'Mech-D', 63, 1518106332),
+('Dev', 'G', '2001-05-30', 'FT-B', 87, 1518108247);
 
 --
 -- Indexes for dumped tables
