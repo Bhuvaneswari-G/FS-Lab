@@ -24,7 +24,7 @@ const studentClass = mongoose.model('student', studentSchema);
 
 const s = new studentClass({
     ID : 1,
-    Name: "Abishek",
+    Name: "Bhuvaneswari G",
     Dept: "CSE",
     phone: "9442905472"
 })
